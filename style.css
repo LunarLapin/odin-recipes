@@ -21,8 +21,10 @@ a {
 }
 .chef-image {
     text-align: center;
+    height: auto;
+    width: 200px;
 }
 .list-images {
     height: auto;
-    width: 125px;
+    width: 75px;
 }
